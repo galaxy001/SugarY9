@@ -1,0 +1,9 @@
+mcfg_sw/generic/china/cmcc/commerci/volte_op/mcfg_sw.mbn
+mcfg_sw/generic/china/cu/commerci/openmkt/mcfg_sw.mbn
+mcfg_sw/generic/china/ct/commerci/openmkt/mcfg_sw.mbn
+mcfg_sw/generic/china/hk/cmhk/commerci/volte_op/mcfg_sw.mbn
+mcfg_sw/generic/china/hk/pccw/commerci/volte_op/mcfg_sw.mbn
+mcfg_sw/generic/china/hk/smartone/commerci/volte_op/mcfg_sw.mbn
+mcfg_sw/generic/common/row/gen_3gpp/mcfg_sw.mbn
+mcfg_sw/generic/kh/seatel/seatel_t/seatel/mcfg_sw.mbn
+mcfg_sw/generic/china/test_car/testcard/mcfg_sw.mbn
